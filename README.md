@@ -1,0 +1,2 @@
+# Javaimportantinterview
+beanclass
